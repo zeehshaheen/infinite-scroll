@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+img {
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
